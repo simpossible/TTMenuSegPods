@@ -94,7 +94,7 @@ Pod::Spec.new do |spec|
   #
 
 
-  spec.vendored_frameworks = "framework/*"
+  spec.vendored_frameworks = "TTMenuSeg.framework"
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   # spec.exclude_files = "Classes/Exclude"
 
